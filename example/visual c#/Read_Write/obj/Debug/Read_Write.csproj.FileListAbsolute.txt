@@ -1,0 +1,9 @@
+C:\Users\Christian\Documents\Prosjektoppgave\example\visual c#\Read_Write\bin\Debug\Read_Write.exe
+C:\Users\Christian\Documents\Prosjektoppgave\example\visual c#\Read_Write\bin\Debug\Read_Write.pdb
+C:\Users\Christian\Documents\Prosjektoppgave\example\visual c#\Read_Write\obj\Debug\Read_Write.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Prosjektoppgave\example\visual c#\Read_Write\obj\Debug\Read_Write.exe
+C:\Users\Christian\Documents\Prosjektoppgave\example\visual c#\Read_Write\obj\Debug\Read_Write.pdb
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\Read_Write\bin\Debug\Read_Write.exe
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\Read_Write\bin\Debug\Read_Write.pdb
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\Read_Write\obj\Debug\Read_Write.exe
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\Read_Write\obj\Debug\Read_Write.pdb

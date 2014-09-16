@@ -1,0 +1,5 @@
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\SyncWrite\bin\Debug\SyncWrite.exe
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\SyncWrite\bin\Debug\SyncWrite.pdb
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\SyncWrite\obj\Debug\SyncWrite.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\SyncWrite\obj\Debug\SyncWrite.exe
+C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\example\visual c#\SyncWrite\obj\Debug\SyncWrite.pdb

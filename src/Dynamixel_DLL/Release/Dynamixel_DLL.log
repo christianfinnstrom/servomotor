@@ -1,0 +1,30 @@
+﻿Build started 9/16/2014 4:54:55 PM.
+     1>Project "C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Dynamixel_DLL.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Dynamixel_DLL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.dll) does not match the Linker's OutputFile property value (C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(DynamixelControl_DLL) does not match the Linker's OutputFile property value (DynamixelControl). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"..\..\import\dynamixel.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.lib" /MACHINE:X86 /SAFESEH /DLL Release\dxl_hal.obj
+         Release\dynamixelControl.obj
+            Creating library C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.lib and object C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.exp
+     1>DynamixelControl_DLL.exp : warning LNK4070: /OUT:dynamixel.dll directive in .EXP differs from output filename 'C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl.dll'; ignoring directive
+         Generating code
+         Finished generating code
+     1>DynamixelControl_DLL.exp : warning LNK4070: /OUT:dynamixel.dll directive in .EXP differs from output filename 'C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl.dll'; ignoring directive
+         Dynamixel_DLL.vcxproj -> C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.dll
+       PostBuildEvent:
+         "C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\..\..\VC\bin\mt.exe" -manifest "C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.dll.intermediate.manifest" -outputresource:"C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Release\DynamixelControl_DLL.dll";#2
+         copy release\dynamixel.dll ..\..\bin\dynamixel.dll
+         copy release\dynamixel.lib ..\..\import\dynamixel.lib
+         
+         
+         :VCEnd
+         '"C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\..\..\VC\bin\mt.exe"' is not recognized as an internal or external command,
+         operable program or batch file.
+                 1 file(s) copied.
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\Christian\Documents\Prosjektoppgave\DynamixelOfficial\src\Dynamixel_DLL\Dynamixel_DLL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
